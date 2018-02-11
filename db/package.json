@@ -1,0 +1,22 @@
+{
+   "name": "kundendatenbank_db",
+   "version": "0.0.1",
+   "description": "Anja Schewe Fotografie Kundendatenbank PouchDB",
+   "main": "main.js",
+   "scripts": {
+      "start": "pouchdb-server --port 5984"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Yilj/KundenDatenbank.git"
+   },
+   "author": "Nigk",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/Yilj/KundenDatenbank/issues"
+   },
+   "homepage": "https://github.com/Yilj/KundenDatenbank#readme",
+   "dependencies": {
+      "pouchdb-server": "^4.0.0"
+   }
+}
